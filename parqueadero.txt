@@ -1,0 +1,4 @@
+Vehiculo [placa = "P", entrada = 2024-05-17 15:44:16.8243178 UTC, salida = Just 2024-05-17 15:44:24.0776568 UTC]
+Vehiculo [placa = "DWED", entrada = 2024-05-17 15:44:14.0136963 UTC, salida = Nothing]
+Vehiculo [placa = "WQEQW", entrada = 2024-05-17 15:44:08.8013141 UTC, salida = Nothing]
+Vehiculo [placa = "WQW", entrada = 2024-05-17 15:44:06.8732276 UTC, salida = Nothing]
