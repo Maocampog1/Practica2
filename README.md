@@ -1,2 +1,4 @@
-# Practica2
-Esta es la Solucion de la Practica2
+# Practica2 Integrantes:
+Luis Angel Nerio Pereira
+Maria Alejandra Ocampo Giraldo 
+
